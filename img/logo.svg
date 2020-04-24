@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 3544 3544" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1.00255,0,0,1.0039,0.00573541,-9.02217)">
+        <rect x="-2.251" y="4.502" width="3534.3" height="3529.8" style="fill:url(#_Linear1);"/>
+    </g>
+    <g transform="matrix(4440.08,0,0,2763.46,-157.29,3543.58)">
+        <path d="M0.232,-0.391L0.434,-0.065L0.636,-0.391L0.681,0L0.832,0L0.726,-0.735L0.434,-0.284L0.14,-0.735L0.036,0L0.186,0L0.232,-0.391Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(4456.84,0,0,-2773.89,-162.396,-61.7916)">
+        <path d="M0.232,-0.391L0.434,-0.065L0.636,-0.391L0.681,0L0.832,0L0.726,-0.735L0.434,-0.284L0.14,-0.735L0.036,0L0.186,0L0.232,-0.391Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,5.40957,765.39,-7512.3)">
+        <g transform="matrix(605.417,0,0,249.524,38.2695,1776.57)">
+            <path d="M0.231,-0.264L0.575,-0.404L0.575,-0.511L0.065,-0.294L0.065,-0.226L0.575,-0.009L0.575,-0.116L0.231,-0.264Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(605.417,0,0,249.524,1564.82,1774.9)">
+            <path d="M0.409,-0.256L0.065,-0.116L0.065,-0.009L0.575,-0.226L0.575,-0.294L0.065,-0.511L0.065,-0.404L0.409,-0.256Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,49.5253,-121.562)">
+        <text x="1589.07px" y="1337.5px" style="font-family:'Jost-Medium', 'Jost*';font-weight:500;font-size:458.333px;fill:white;">B</text>
+        <text x="1616.34px" y="1795.83px" style="font-family:'Jost-Medium', 'Jost*';font-weight:500;font-size:458.333px;fill:white;">L</text>
+        <text x="1542.78px" y="2254.16px" style="font-family:'Jost-Medium', 'Jost*';font-weight:500;font-size:458.333px;fill:white;">O</text>
+        <text x="1545.53px" y="2712.5px" style="font-family:'Jost-Medium', 'Jost*';font-weight:500;font-size:458.333px;fill:white;">G</text>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3534.3,0,0,3529.8,-2.25115,1769.4)"><stop offset="0" style="stop-color:rgb(110,182,216);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(139,211,215);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(35,214,222);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
